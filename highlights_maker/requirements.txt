@@ -1,0 +1,9 @@
+openai-whisper 
+pytube 
+moviepy 
+pydub 
+openai
+fastapi
+uvicorn[standard]
+moviepy
+python-multipart
